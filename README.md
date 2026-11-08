@@ -1,9 +1,9 @@
 # Erwan Poltak Halomoan
 
-Welcome to my GitHub! I'm an Information Systems and Technology student at Bandung Institute of Technology (ITB) with a strong interest in **Artificial Intelligence** and **Data Analytics**. I enjoy building data-driven solutions, exploring machine learning applications, and contributing to impactful projects through both academic and professional experiences.
+Welcome to my GitHub! I'm an Information Systems and Technology fresh graduates from Bandung Institute of Technology (ITB) with a strong interest in **Artificial Intelligence** and **Data Analytics**. I enjoy building data-driven solutions, exploring machine learning applications, and contributing to impactful projects through both academic and professional experiences.
 
 ## 👨‍💻 About Me
-- Undergraduate student in Information Systems and Technology, ITB (2022–Present)
+- Fresh graduates in Information Systems and Technology, ITB
 - Strong interest in AI, Data Analytics, and Machine Learning
 - National-level data science competition finalist
 - Experienced in teamwork, leadership, and project management
@@ -29,8 +29,8 @@ Welcome to my GitHub! I'm an Information Systems and Technology student at Bandu
 
 ## 🎓 Education
 **Bandung Institute of Technology (ITB)**  
-Bachelor of Science in Information Systems and Technology (2022–Present)  
-GPA: 3.41 / 4.00 (6th Semester)
+Bachelor of Science in Information Systems and Technology
+GPA: 3.52 / 4.00
 
 ## 🏆 Honors & Awards
 - **Top 9 National Finalist – DATAQUEST Airnology 3.0 (UNAIR, 2024)**
